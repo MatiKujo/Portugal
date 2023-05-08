@@ -1,4 +1,3 @@
-
 function Laravel(){
     document.getElementById("answer").innerHTML = "In php the most popular framework is Laravel. It is basic to use and it has rich documentation. Laravel supports many function such as authentication user, routing, database, templates, tools for testing and more. Main advantage is comunity that regurarly do updates and extensions. Main disadvantage is difficulty of some function and performance limits.";
 }
